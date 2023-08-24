@@ -29,10 +29,12 @@ I'm Murilo Silva, a Brazilian software developer who is passionate about technol
   <img src="https://github.com/get-icon/geticon/blob/master/icons/linux-tux.svg" title="linux" alt="linux" width="40" height="40" />&nbsp;
 </div>
 
+<!--
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Dev-Murilo&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Murilo&theme=tokyonight&hide_border=false"  width="400px" />
 
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Dev-Murilo&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+-->
 
 <!--
 **Dev-Murilo/Dev-Murilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
